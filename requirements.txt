@@ -118,8 +118,6 @@ psutil==5.7.3
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pyarrow==8.0.0
-PyAudio==0.2.11
-pycairo==1.21.0
 pycparser==2.20
 pydeck==0.7.1
 Pygments==2.7.2
